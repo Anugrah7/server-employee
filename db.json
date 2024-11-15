@@ -1,0 +1,22 @@
+{
+  "employeeDetails": [
+    {
+      "name": "Anugrah T Thomas",
+      "email": "anugrahthomas321@gmail.com",
+      "status": "Active",
+      "id": 1
+    },
+    {
+      "name": "Hussain Muu",
+      "email": "hussain100@gmail.com",
+      "status": "Active",
+      "id": 2
+    },
+    {
+      "name": "zenilKumar",
+      "email": "abinjose@gmail.com",
+      "status": "Inactive",
+      "id": 3
+    }
+  ]
+}
